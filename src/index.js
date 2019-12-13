@@ -1,12 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import * as serviceWorker from './serviceWorker';
-
-ReactDOM.render(<App />, document.getElementById('root'));
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
+// import './hook/useEffect'
+// import './hook/useEffec1'
+// import './hook/useReducer'
+// import './hook/useContext/sample'
+// import './hook/useContext'
+// import './hook/useCallback'
+// import './hook/useCallback1'
+// import './hook/useMemo'
+// import './hook/useRef'
+// import './hook/useRef1'
+// import './hook/useImperativeHandle'
+// import './hook/useImperativeHandle1'
+import './hook/useLayoutEffect'

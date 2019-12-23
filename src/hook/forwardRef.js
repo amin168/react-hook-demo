@@ -10,7 +10,7 @@ import ReactDOM from 'react-dom'
 
 const FancyButton = React.forwardRef((props, ref) => (
   <div>
-    <inpu ref={ref} />
+    <input ref={ref} />
     <button>{props.children}</button>
   </div>
 ))
